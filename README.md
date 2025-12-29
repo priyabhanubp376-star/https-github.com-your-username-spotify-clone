@@ -7,8 +7,4 @@ A Spotify-like interface with song list, playback controls, and progress bar.
 - 🎼 Displays currently playing song name
 - 🎞️ Animated GIF while music is playing
 - 🎨 Clean and responsive UI inspired by Spotify
-- **HTML5** – Structure of the web app  
-- **CSS3** – Styling and layout  
-- **JavaScript (ES6)** – Music controls and logic  
-- **Font Awesome** – Icons  
-- **HTML5 Audio API** – Audio playback
+
